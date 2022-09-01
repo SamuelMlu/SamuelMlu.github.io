@@ -1,80 +1,23 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: tugas 1
+description: data breach di LastPass
+img: assets/img/44132.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+#  Data Breach pada LastPass
+LastPass adalah password manager yang berfungsi mengelola kata sandi pengguna yang beragam, sehingga pengguna hanya perlu mengingat master password untuk masuk ke dalam akun LastPass pengguna. Berdasarkan laman LastPass, LastPass bekerja menggunakan algoritma enkripsi AES-256 bit dengan PBKDF2 SHA-256 dan hash yang di salted. Selain itu, LastPass menjamin keamanan data yang disimpan pengguna, bahkan LastPass mengatakan bahwa LastPass sendiri tidak dapat mengakses data yang disimpan  pengguna.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Dalam laman blog LastPass, CEO LastPass Karim Toubba mengatakan adanya aktivitas yang mencurigakan di bagian development LastPass. Selain itu, ditemukan adanya pihak yang tidak sah yang menggunakan akun developer. Menggunakan akun tersebut, pihak tersebut mengambil source code dan beberapa informasi teknis kepemilikan LastPass.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Adanya kejadian data breach, LastPass berusaha untuk melakukan penyelidikan lebih lanjut dan akan terus berupaya memperbaiki sistem keamanan LastPass.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### referensi
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+1. LastPass. (n.d.). The best way to manage passwords. Retrieved August 2022, 28, from LastPass: https://www.lastpass.com/how-lastpass-works
+
+2. Toubba, K. (2022, August 25). Notice of Recent Security Incident. Retrieved August 28, 2022, from LastPass: https://blog.lastpass.com/2022/08/notice-of-recent-security-incident/
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
