@@ -9,8 +9,8 @@ category: work
 
 # Data Breach pada LastPass
 ###### 01 September 2022
-<br />
-<br />
+<pre >
+</pre >
 LastPass adalah password manager yang berfungsi mengelola kata sandi pengguna yang beragam, sehingga pengguna hanya perlu mengingat master password untuk masuk ke dalam akun LastPass pengguna. Berdasarkan laman LastPass, LastPass bekerja menggunakan algoritma enkripsi AES-256 bit dengan PBKDF2 SHA-256 dan hash yang di salted. Selain itu, LastPass menjamin keamanan data yang disimpan pengguna, bahkan LastPass mengatakan bahwa LastPass sendiri tidak dapat mengakses data yang disimpan  pengguna.
 
 Dalam laman blog LastPass, CEO LastPass Karim Toubba mengatakan adanya aktivitas yang mencurigakan di bagian development LastPass. Selain itu, ditemukan adanya pihak yang tidak sah yang menggunakan akun developer. Menggunakan akun tersebut, pihak tersebut mengambil source code dan beberapa informasi teknis kepemilikan LastPass.
