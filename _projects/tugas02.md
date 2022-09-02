@@ -11,3 +11,7 @@ category: work
 # Web application
 # Hybrid application
 # Progressive web application
+
+<p style="text-align: center;" >...</p>
+
+##### 02 September 2022
