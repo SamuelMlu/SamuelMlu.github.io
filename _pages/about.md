@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Mahasiswa
+subtitle:  Mahasiswa
 
 profile:
   align: right
@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
- Website seorang mahasiswa di sebuah negara
+ Laman seorang mahasiswa di sebuah negara
