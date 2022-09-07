@@ -7,11 +7,13 @@ importance: 2
 category: work
 ---
 
+###### 09 September 2022
 # Native application
+
 # Web application
+
 # Hybrid application
+
 # Progressive web application
 
-<p style="text-align: center;" >...</p>
 
-##### 02 September 2022
