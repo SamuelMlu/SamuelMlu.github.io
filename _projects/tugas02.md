@@ -14,7 +14,7 @@ Native application adalah aplikasi yang dibuat secara khusus untuk operating sys
 ### kelebihan
 1. Dari segi performa, native app lebih baik. Hal ini dikarenakan native app dibuat berdasarkan spesifikasi OS tertentu
 2.	Dapat bekerja secara luring. Hal ini dikarenakan pemasangan native app, data yang diperlukan untuk menjalankan nstive app telah tersedia.
-3.	User experience lebih baik. Hal ini dikarenakan native app ttelah disesuaikan dengan perangkat pengguna. 
+3.	User experience lebih baik. Hal ini dikarenakan native app telah disesuaikan dengan perangkat pengguna. 
 4.	Aplikasi dapat mengakses fitur perangkat. 
 5.	Dalam pengembangan aplikasi, error dalam native app lebih sedikit. Hal ini disebabkan developer yang hanya berfokus pada satu OS.
 
