@@ -46,7 +46,14 @@ Web application adalah aplikasi berbasis web dimana pengguna mengakses aplikasi 
 Hybrid application adalah kombinasi dari native application dan web application. Web application akan bekerja melalui native application. Ketika aplikasi dijalankan, web application akan bekerja melalui peramban yang tertanam pada native application, dimana peramban akan bekerja di bagian back end dan tidak akan terlihat oleh pengguna.
 
 ### kelebihan
+1.	Dapat digunakan pqda operasi sistem yang beragam. 
+2.	Biaya pengembangan yang murah dikarenakan menggunakan kode yang sama dan dapat digunakan pada operasi sistem yang berbeda. 
+3.	Pengembangan yang lebih cepat. 
+
 ### kekurangan
+1.	Tidak adapat memaksimalkan fungsi aplikasi dikarenakan beberapa fitur hardware yang tidak dapat digunakan.
+2.	Pengembangan yang sulit 
+
 
 <p style="text-align:center">...</p>
 
@@ -59,7 +66,9 @@ Progressive web application adalah aplikasi yang dibuat dengan menggunakan tekno
 <p style="text-align:center">...</p>
 
 ### referensi
-1.	admin. (2022, August 29). Advantages and disadvantages of web applications. iTrobes - Software Consulting | Digital Transformation Services. Retrieved September 8, 2022, from https://www.itrobes.com/what-are-the-advantages-and-disadvantages-of-web-applications/
+1.	admin. (2022, August 29). Advantages and disadvantages of web applications. iTrobes - Software Consulting Digital Transformation Services. Retrieved September 8, 2022, from https://www.itrobes.com/what-are-the-advantages-and-disadvantages-of-web-applications/
 2.	Aprilia, P. (2022, September 1). Apa itu Aplikasi Native? Simak Penjelasan Lengkapnya Berikut ini! Niagahoster Blog. Retrieved September 8, 2022, from https://www.niagahoster.co.id/blog/aplikasi-native-adalah/
 3.	Contributor, T. (2019, September 9). hybrid application (hybrid app). SearchSoftwareQuality. Retrieved September 8, 2022, from https://www.techtarget.com/searchsoftwarequality/definition/hybrid-application-hybrid-app
 4.	Gillis, A. S. (2020, September 1). native app. SearchSoftwareQuality. Retrieved September 8, 2022, from https://www.techtarget.com/searchsoftwarequality/definition/native-application-native-app
+5.  The Pros and Cons of Hybrid App Technology  CodeControl. (n.d.). Retrieved September 8, 2022, from https://codecontrol.io/en/blog/the-pros-and-cons-of-hybrid-mobile-app-technology/
+
