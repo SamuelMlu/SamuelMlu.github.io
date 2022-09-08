@@ -45,9 +45,18 @@ Web application adalah aplikasi berbasis web dimana pengguna mengakses aplikasi 
 # Hybrid application
 Hybrid application adalah kombinasi dari native application dan web application. Web application akan bekerja melalui native application. Ketika aplikasi dijalankan, web application akan bekerja melalui peramban yang tertanam pada native application, dimana peramban akan bekerja di bagian back end dan tidak akan terlihat oleh pengguna.
 
+### kelebihan
+### kekurangan
+
+<p style="text-align:center">...</p>
+
 # Progressive web application
 Progressive web application adalah aplikasi yang dibuat dengan menggunakan teknologi web yang berfungsi seperti native app.
 
+### kelebihan
+### kekurangan
+
+<p style="text-align:center">...</p>
 
 ### referensi
 1. admin. (2022, August 29). Advantages and disadvantages of web applications. iTrobes - Software Consulting | Digital Transformation Services. Retrieved September 8, 2022, from https://www.itrobes.com/what-are-the-advantages-and-disadvantages-of-web-applications/
