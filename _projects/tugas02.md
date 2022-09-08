@@ -69,7 +69,7 @@ Hybrid application adalah kombinasi dari native application dan web application.
 <p style="text-align:center">...</p>
 
 # Progressive web application
-Progressive web application adalah aplikasi yang dibuat dengan menggunakan teknologi web yang berfungsi seperti native app.
+Progressive web application adalah aplikasi yang dibuat dengan menggunakan teknologi web yang berfungsi seperti native app. Contoh PWA yaitu Starbucks
 
 ### kelebihan
 1.	Tidak membutuhkan instalasi dalam penggunaan.
