@@ -17,13 +17,17 @@ Native application adalah aplikasi yang dibuat secara khusus untuk operating sys
 3.	User experience lebih baik. Hal ini dikarenakan native app ttelah disesuaikan dengan perangkat pengguna. 
 4.	Aplikasi dapat mengakses fitur perangkat. 
 5.	Dalam pengembangan aplikasi, error dalam native app lebih sedikit. Hal ini disebabkan developer yang hanya berfokus pada satu OS.
-6.	Dalam segi keamanan, native app lebih baik. Hal ini dikarenakan sistem keamanan berlapis, tidak bergantung pada third-party, penggunaan API resmi, dan penggunaan software development kit (SDK).
+
 
 ### kekurangan
 1.	Dikarenakan dalam pengembangannya native app berfokus pada satu os, developer menjadi tidak leluasa dalam mengembangkan aplikasi.
 2.	Pengembangan aplikasi menjadi lama dikarenakan keberagaman OS yang digunakan oleh pengguna.
 3.	Dikarenakan keberagaman OS pada pengguna, biaya pengembangan native app menjadi mahal
 4.	Developer native app harus mengikuti perkembangan OS pengguna.
+
+
+### keamanan
+1.  Dalam segi keamanan, native app lebih baik. Hal ini dikarenakan sistem keamanan berlapis, tidak bergantung pada third-party, penggunaan API resmi, dan penggunaan software development kit (SDK).
 
 <p style="text-align:center">...</p>
 
@@ -38,7 +42,11 @@ Web application adalah aplikasi berbasis web dimana pengguna mengakses aplikasi 
 1.	Untuk menggunakan aplikasi dibutuhkan koneksi internet. Selain itu, kenyamanan pengguna akan bergantung pada kecepatan internet.
 2.	Web application sangat bergantung pada peramban. Jika peramban kurang responsif atau tidak dapat berjalan, penggunaan web app menjadi tidak maksimal.
 3.	Tidak mampu memaksimalkan penggunaan hardware dan operasi sistem
-4.	Tidak adanya quality control memungkinkan security yang buruk
+
+### keamanan
+1.  Tidak adanya quality control memungkinkan security yang buruk.
+2.  Peningkatan keamanan perlu diperhatikan dalam penggunaan web application
+
 
 <p style="text-align:center">...</p>
 
@@ -53,7 +61,9 @@ Hybrid application adalah kombinasi dari native application dan web application.
 ### kekurangan
 1.	Tidak adapat memaksimalkan fungsi aplikasi dikarenakan beberapa fitur hardware yang tidak dapat digunakan.
 2.	Pengembangan yang sulit 
-3.  Keamanan yang cukup rentan dikarenakan hybrid application bekerja pada beragam OS. Selain itu, celah kerentanan pada web juga harus diperhatikan.
+
+### keamanan
+1.  Keamanan yang cukup rentan dikarenakan hybrid application bekerja pada beragam OS. Selain itu, celah kerentanan pada web perlu diperhatikan.
 
 
 <p style="text-align:center">...</p>
@@ -61,15 +71,18 @@ Hybrid application adalah kombinasi dari native application dan web application.
 # Progressive web application
 Progressive web application adalah aplikasi yang dibuat dengan menggunakan teknologi web yang berfungsi seperti native app.
 
-### kelebihan\
+### kelebihan
 1.	Tidak membutuhkan instalasi dalam penggunaan.
-2.	Dalam penggunaannya, PWAmembutuhkan lebih sedikit penyimpanan dan sedikit penggunaan hardware pengguna.
+2.	Dalam penggunaannya, PWA membutuhkan lebih sedikit penyimpanan dan sedikit penggunaan hardware pengguna.
 3.	Pengembangan yang kebih cepat daripada native application.
 4.	Dikarenakan terhubung ke internet, PWA tidak membutuhkan update.
 
 ### kekurangan
 1.	Jika ingin menggunakan PWA, pengguna harus mengunjungi website. Yang mereka inginkan.
 2.	Tidak dapat memaksimalkan penggunaan perangkat pengguna.
+
+### keamanan
+1.  Penggunaan HTTPS membantu keamanan dalam PWA.
 
 
 <p style="text-align:center">...</p>
