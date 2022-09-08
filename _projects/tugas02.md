@@ -49,3 +49,8 @@ Hybrid application adalah kombinasi dari native application dan web application.
 Progressive web application adalah aplikasi yang dibuat dengan menggunakan teknologi web yang berfungsi seperti native app.
 
 
+### referensi
+1. admin. (2022, August 29). Advantages and disadvantages of web applications. iTrobes - Software Consulting | Digital Transformation Services. Retrieved September 8, 2022, from https://www.itrobes.com/what-are-the-advantages-and-disadvantages-of-web-applications/
+2. Aprilia, P. (2022, September 1). Apa itu Aplikasi Native? Simak Penjelasan Lengkapnya Berikut ini! Niagahoster Blog. Retrieved September 8, 2022, from https://www.niagahoster.co.id/blog/aplikasi-native-adalah/
+3. Contributor, T. (2019, September 9). hybrid application (hybrid app). SearchSoftwareQuality. Retrieved September 8, 2022, from https://www.techtarget.com/searchsoftwarequality/definition/hybrid-application-hybrid-app
+4. Gillis, A. S. (2020, September 1). native app. SearchSoftwareQuality. Retrieved September 8, 2022, from https://www.techtarget.com/searchsoftwarequality/definition/native-application-native-app
