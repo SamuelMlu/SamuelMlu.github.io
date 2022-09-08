@@ -11,7 +11,7 @@ category: work
 # Native application
 Native application adalah aplikasi yang dibuat secara khusus untuk operating system tertentu.  Dikarenakan dibuat secara khusus, native application bekerja pada perangkat lunak dan perangkat keras yang spesifik. 
 
-## kelebihan
+### kelebihan
 1. Dari segi performa, native app lebih baik. Hal ini dikarenakan native app dibuat berdasarkan spesifikasi OS tertentu
 2.	Dapat bekerja secara luring. Hal ini dikarenakan pemasangan native app, data yang diperlukan untuk menjalankan nstive app telah tersedia.
 3.	User experience lebih baik. Hal ini dikarenakan native app ttelah disesuaikan dengan perangkat pengguna. 
@@ -19,7 +19,7 @@ Native application adalah aplikasi yang dibuat secara khusus untuk operating sys
 5.	Dalam pengembangan aplikasi, error dalam native app lebih sedikit. Hal ini disebabkan developer yang hanya berfokus pada satu OS.
 6.	Dalam segi keamanan, native app lebih baik. Hal ini dikarenakan sistem keamanan berlapis, tidak bergantung pada third-party, penggunaan API resmi, dan penggunaan software development kit (SDK).
 
-## kekurangan
+### kekurangan
 1.	Dikarenakan dalam pengembangannya native app berfokus pada satu os, developer menjadi tidak leluasa dalam mengembangkan aplikasi.
 2.	Pengembangan aplikasi menjadi lama dikarenakan keberagaman OS yang digunakan oleh pengguna.
 3.	Dikarenakan keberagaman OS pada pengguna, biaya pengembangan native app menjadi mahal
@@ -30,11 +30,11 @@ Native application adalah aplikasi yang dibuat secara khusus untuk operating sys
 # Web application
 Web application adalah aplikasi berbasis web dimana pengguna mengakses aplikasi melalui peramban yang terhubung internet.
 
-## kelebihan
+### kelebihan
 1.	Biaya yang lebih murah, dikarenakan pembuatan aplikasi dilakukan dengan menghubungkan URL dan aplikasi. Selain itu, dapat berjalan pada OS yang berbeda jenis
 2.	Dikarenakan aplikasi terhubung ke URL, aplikasi akan selalu dala versi terbaru
 
-## kekurangan
+### kekurangan
 1.	Untuk menggunakan aplikasi dibutuhkan koneksi internet. Selain itu, kenyamanan pengguna akan bergantung pada kecepatan internet.
 2.	Web application sangat bergantung pada peramban. Jika peramban kurang responsif atau tidak dapat berjalan, penggunaan web app menjadi tidak maksimal.
 3.	Tidak mampu memaksimalkan penggunaan hardware dan operasi sistem
