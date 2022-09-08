@@ -30,6 +30,17 @@ Native application adalah aplikasi yang dibuat secara khusus untuk operating sys
 # Web application
 Web application adalah aplikasi berbasis web dimana pengguna mengakses aplikasi melalui peramban yang terhubung internet.
 
+## kelebihan
+1.	Biaya yang lebih murah, dikarenakan pembuatan aplikasi dilakukan dengan menghubungkan URL dan aplikasi. Selain itu, dapat berjalan pada OS yang berbeda jenis
+2.	Dikarenakan aplikasi terhubung ke URL, aplikasi akan selalu dala versi terbaru
+
+## kekurangan
+1.	Untuk menggunakan aplikasi dibutuhkan koneksi internet. Selain itu, kenyamanan pengguna akan bergantung pada kecepatan internet.
+2.	Web application sangat bergantung pada peramban. Jika peramban kurang responsif atau tidak dapat berjalan, penggunaan web app menjadi tidak maksimal.
+3.	Tidak mampu memaksimalkan penggunaan hardware dan operasi sistem
+4.	Tidak adanya quality control memungkinkan security yang buruk
+
+<p style="text-align:center">...</p>
 
 # Hybrid application
 Hybrid application adalah kombinasi dari native application dan web application. Web application akan bekerja melalui native application. Ketika aplikasi dijalankan, web application akan bekerja melalui peramban yang tertanam pada native application, dimana peramban akan bekerja di bagian back end dan tidak akan terlihat oleh pengguna.
