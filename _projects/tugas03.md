@@ -15,8 +15,21 @@ category: work
 
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path= "assets/img/project/projek3.0.PNG" title="reverse engineering pada wa" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path= "assets/img/project/projek3.1.PNG" title="reverse engineering pada twiter" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path= "assets/img/project/projek3.3.PNG" title="reverse engineering pada youtube" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path= "assets/img/project/projek3.2.PNG" title="reverse engineering pada wa" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 #### Perbedaan hasil reverse engineering
