@@ -31,5 +31,9 @@ category: work
     </div>
 </div>
 
+<div class="caption">
+    apktool d namafile.apk
+</div>
+
 
 #### Perbedaan hasil reverse engineering
