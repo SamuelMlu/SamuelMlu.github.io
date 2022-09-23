@@ -10,7 +10,11 @@ category: work
 ###### 30 September 2022
 # Reverse engineering
 
-#### Melakukan reverse engineering menggunakan apktool.
+<pre >
+
+</pre >
+
+##### Melakukan reverse engineering menggunakan apktool.
  <a href="https://github.com/iBotPeaches/Apktool" target="_blank">apktool</a> adalah alat untuk melakukan reverse engineering. Menggunakan apktool, kita dapat melihat source code pada file apk.
 
  <div class="row">
@@ -36,4 +40,4 @@ category: work
 </div>
 
 
-#### Perbedaan hasil reverse engineering
+##### Perbedaan hasil reverse engineering
