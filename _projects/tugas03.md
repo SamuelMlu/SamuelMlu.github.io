@@ -61,7 +61,7 @@ Whatsapp merupakan aplikasi native. Dukungan hardware diperlukan agar whatsap da
 
  </div>
 
-###### youtube
+###### <b>youtube</b>
 Youtue merupakan aplikasi web.
 
 <div class="row">
@@ -74,7 +74,7 @@ Youtue merupakan aplikasi web.
     </div>
  </div>
 
-###### twitter
+###### <b>twitter</b>
 Twitter merupakan aplikasi hybrid (gabungan aplikasi native dan aplikasi web).
 
 <div class="row">
