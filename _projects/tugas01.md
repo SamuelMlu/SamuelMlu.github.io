@@ -2,7 +2,7 @@
 layout: page
 title: tugas 1
 description: data breach di LastPass 
-img: assets/img/project/passwordmanager.jpg
+img: assets/img/project/passwordmanager.png
 importance: 1
 category: work
 ---
