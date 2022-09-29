@@ -62,7 +62,7 @@ Whatsapp merupakan aplikasi native. Dukungan hardware diperlukan agar whatsap da
  </div>
 
 ###### <b>youtube</b>
-Youtue merupakan aplikasi web.
+Youtube merupakan aplikasi web. Dukungan hardware diperlukan agar whatsap dapat berjalan dengan baik. Hardware yang dibutuhkan dalam menjalankan youtube antara lain,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -75,7 +75,7 @@ Youtue merupakan aplikasi web.
  </div>
 
 ###### <b>twitter</b>
-Twitter merupakan aplikasi hybrid (gabungan aplikasi native dan aplikasi web).
+Twitter merupakan aplikasi hybrid (gabungan aplikasi native dan aplikasi web). Dukungan hardware diperlukan agar whatsap dapat berjalan dengan baik. Hardware yang dibutuhkan dalam menjalankan twitter antara lain,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
