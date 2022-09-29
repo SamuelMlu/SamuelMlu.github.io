@@ -48,7 +48,7 @@ category: work
 
 </pre >
 
-1. whatsapp
+###### <b>whatsapp</b>
     Whatsapp merupakan aplikasi native. Dukungan hardware diperlukan agar whatsap dapat berjalan dengan baik. Hardware yang dibutuhkan dalam menjalankan whatapp antara lain, penggunaan bluetooth, gps, camera, nfc, dll.
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
@@ -61,7 +61,7 @@ category: work
 
     </div>
 
-2. youtube
+###### youtube
     Youtue merupakan aplikasi web.
 
     <div class="row">
@@ -74,7 +74,7 @@ category: work
         </div>
     </div>
 
-3. twitter
+###### twitter
     Twitter merupakan aplikasi hybrid (gabungan aplikasi native dan aplikasi web).
 
     <div class="row">
